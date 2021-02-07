@@ -1,6 +1,8 @@
 public class MartixMulti {
 
 	public static void main(String arg[]) {
+		
+		
 		int r1, c1, r2, c2, i, j, k,l=3;
 		r1=Integer.parseInt(arg[0]);
 		c1=Integer.parseInt(arg[1]);
