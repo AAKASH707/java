@@ -20,7 +20,7 @@ class CheckStatic{
 	  a=10;
 	  b=20;
 	  System.out.println("Inside Static !");
-	  System.out.println("As noted stic block execute frist #");
+	  System.out.println("As noted static block execute frist #");
 	 }
 	}
   
