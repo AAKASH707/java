@@ -3,12 +3,14 @@ public class StaticDemo {
 	public static void main(String[] args) {
 	multi(10,20);
 	//creating object as using non-static stuff
+	
 	StaticDemo ref= new StaticDemo();
 	ref.div(4,2);
 	ref.div(8,0);
 
 	}
 //using static variable 
+	
 	static void multi(int a, int b) {
 	
 		System.out.println("Multiplication is :"+(a*b));
